@@ -134,6 +134,3 @@ passwords.enc
 
 Bu proje MIT Lisansı altında yayınlanmıştır.
 Kod serbestçe kullanılabilir, geliştirilebilir ve dağıtılabilir.
-
-İstersen buna uygun olarak .gitignore ve requirements.bat içeriğini de sana hazırlayayım — requirements.bat dosyasında otomatik olarak pip install cryptography komutu çalışsın.
-Hazırlayayım mı?
