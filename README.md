@@ -1,18 +1,16 @@
-🔐 PASSGEN
+🔐 PASSCORE
 
 UYARI: .ENC UZANTILI DOSYANIN DEĞİŞTİRİLMESİ VEYA SİLİNMESİ SONUCU GÜVENLİK NEDENİYLE PROGRAM KENDİ KENDİNİN ŞİFRELERİNİ YOK EDECEK
 
-NOT: Passgen şuanda 2204 - Lise Öğrencileri Araştırma Projeleri Yarışması için özel olarak geliştirmiştir. Kopyalamak yasaktır. 
+NOT: Passcore şuanda 2204 - Lise Öğrencileri Araştırma Projeleri Yarışması için özel olarak geliştirmiştir. Kopyalamak yasaktır. 
 MADE WITH ❤
 👥 Katkıda Bulunanlar
 - [@rootnorth](https://github.com/rootnorth) — Kodlama, şifre üretim mantığı
 - [@haretor](https://github.com/haretor) — Yapı, test ve dökümantasyon
 
- & @haretor
-
 🧩 Genel Bakış
 
-PASSGEN, Python ile yazılmış, tamamen terminal üzerinden çalışan bir şifre oluşturma ve yönetim aracıdır.
+PASSCORE, Python ile yazılmış, tamamen terminal üzerinden çalışan bir şifre oluşturma ve yönetim aracıdır.
 Yeni sürüm, şifrelerinizi güvenli biçimde saklamak için şifreleme (encryption) desteği ve otomatik requirements.bat başlatma özelliğiyle güçlendirilmiştir.
 
 🚀 Özellikler
@@ -61,7 +59,7 @@ Manuel yüklemek isterseniz:
 pip install cryptography
 
 2️⃣ Programı çalıştırın
-python passgen.py
+python passcore.py
 
 💡 Kullanım
 
@@ -70,7 +68,7 @@ Bu parola, şifreleme/çözme için kullanılır ve unutulmamalıdır.
 
 Ardından ana menü gelir:
 
-PASSGEN BY ROOTNORTH, HARETOR
+PASSCORE BY ROOTNORTH, HARETOR
 
 Menu:
  1) Şifre Oluştur
@@ -129,8 +127,3 @@ passwords.json dosyasını asla GitHub’a yüklemeyin.
 
 passwords.json
 passwords.enc
-
-📄 Lisans
-
-Bu proje MIT Lisansı altında yayınlanmıştır.
-Kod serbestçe kullanılabilir, geliştirilebilir ve dağıtılabilir.
