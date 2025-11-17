@@ -2,7 +2,7 @@
 
 UYARI: .ENC UZANTILI DOSYANIN DEĞİŞTİRİLMESİ VEYA SİLİNMESİ SONUCU GÜVENLİK NEDENİYLE PROGRAM KENDİ KENDİNİN ŞİFRELERİNİ YOK EDECEK
 
-Basit Şifre Yöneticisi ve Üreticisi
+NOT: Passgen şuanda 2204 - Lise Öğrencileri Araştırma Projeleri Yarışması için özel olarak geliştirmiştir. Kopyalamak yasaktır. 
 MADE WITH ❤
 👥 Katkıda Bulunanlar
 - [@rootnorth](https://github.com/rootnorth) — Kodlama, şifre üretim mantığı
