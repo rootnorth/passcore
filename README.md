@@ -123,7 +123,3 @@ passwords.enc dosyasını yedekleyin ama güvenli ortamda saklayın.
 
 passwords.json dosyasını asla GitHub’a yüklemeyin.
 
-.gitignore dosyasına ekleyin:
-
-passwords.json
-passwords.enc
