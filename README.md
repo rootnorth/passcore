@@ -1,4 +1,4 @@
-🔐 PASSCORE
+D🔐 PASSCORE
 
 UYARI: .ENC UZANTILI DOSYANIN DEĞİŞTİRİLMESİ VEYA SİLİNMESİ SONUCU GÜVENLİK NEDENİYLE PROGRAM KENDİ KENDİNİN ŞİFRELERİNİ YOK EDECEK
 
@@ -6,7 +6,7 @@ NOT: Passcore, MIT License koruması altındadır. Kopyalamak yasaktır.
 MADE WITH ❤
 👥 Katkıda Bulunanlar
 - [@rootnorth](https://github.com/rootnorth) — Kodlama, şifre üretim mantığı
-- [@haretor](https://github.com/haretor) — Yapı, test ve dökümantasyon
+- [@Haretorre](https://github.com/Haretorre) — Yapı, test ve dökümantasyon
 
 🧩 Genel Bakış
 
